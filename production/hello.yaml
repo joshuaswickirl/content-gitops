@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: joshuaswickirl/hello:1.2
+        image: joshuaswickirl/gitops:hellov1.2
